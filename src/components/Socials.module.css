@@ -1,0 +1,24 @@
+.home-continue-btn {
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    cursor: pointer;
+    pointer-events: auto;
+}
+
+.socialsContainer {
+    display: flex;
+    gap: 1rem;
+    pointer-events: auto;
+}
+
+.socialLink {
+    display: flex;
+    flex-wrap: nowrap;
+    min-width: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+}
